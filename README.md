@@ -1,1 +1,1 @@
-# Encryption-and-decryption-of-an-image
+This program encrypts and decrypts images based on a key and a distortion algorithm based on the key. The distortion algorithm makes sure that features of the image such as color distribution cannot be known
